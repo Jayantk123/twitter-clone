@@ -1,0 +1,60 @@
+i create a twitter app using reactjs firebase and materialui
+
+
+twitter clone is divided into three parts
+sidebar 
+feed 
+widgets
+
+sidebar
+first i was start creating sidebarr
+
+--
+in sidebar 
+add twitter logo with blue color
+we add home,explore bar and othersutffs along with add their icons which i import it from material ui.
+
+we make a home bar as active bcs of homepage
+
+at last in sidebar we add a static tweet butto.
+
+
+
+feed
+
+in feed baar we break this component int two parts
+
+1st tweetbox
+
+in tweetbox part we add a text type input for get the tweet along with image.
+
+and add a tweet button.
+
+
+on clicking the tweet button the entered data(tweet,userid,image,verified) go to the firebase and then stored and post on the post  part.
+
+
+
+post
+
+in post past all the tweeted item are add to this part
+bottm of the tweet we created a like,share button.
+
+
+widgets
+this s the third section of twitter
+we added a search bar for search the tweet in twitter
+
+botoom of search bar we add a tweet that call from tweet id(api) using twittertewwtEmbebd tag in react and set their size along with styling.
+
+at last we add a tweet button that redirect the original twitter to post the new things.
+
+
+
+
+
+at last firebase
+
+we setup firebase
+
+on the onclick tweet button the data are going to firebase database and then it posts the tweet.

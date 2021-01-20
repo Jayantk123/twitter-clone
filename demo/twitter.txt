@@ -1,0 +1,126 @@
+Twitter is a social networking platform where people can express their thoughts in short posts which people can read and share
+n this tutorial, we’re going to create a small Twitter-like mobile app using React Native. With our app, users will be able to create accounts and log in, see a feed of all of the posts created by themselves and other users, and add their own posts to the feed. The data for all of our users and posts will be managed by Cosmic JS.
+twitter clone(css,firebase,twitter,materialui,reactjs)
+
+
+material ui for logo
+react flip move for dymanic aniimation
+
+1 sidebar
+2 middle feedbar(scroll bar)
+3 widgets(rightside)
+
+1st make sidebar
+-sidebaroption(for sidebar icons and bw text gap (hover color))
+
+-props(pass it an (argument) icon pass)
+function m argument pass(means pass text value or something)
+
+
+
+
+
+
+
+
+create post comp in feed
+{
+all showng feed are post
+n a single post contain
+----
+{post argument show name username and time}}---
+
+
+
+
+
+for widgets
+{
+use react-twitter-embed for adding twtter widgts to project
+twitter timeline embeded for adding tmeline
+twitter button to post on real twtter
+
+-//thiird party libray
+
+
+49:12
+1:24
+1:49
+
+2:11:43   username pe atak gya
+2:27:27
+2:45:23 
+3:01:36
+
+
+
+
+
+
+
+
+setting firebase
+
+firebasse hosting
+
+firebase login
+
+firebase init
+
+firebase deploy
+
+
+
+
+
+
+copy config code to firebase
+then npm i firebase to pull of things
+
+
+using db(database variable)
+
+we can access all the files like appjs or other fles in react   ....used in firebase
+
+
+
+useEffect run on a given condition
+
+
+react flip move npm for smoothing tansiction.
+
+
+
+
+
+
+
+
+
+last task host on firebase(deploy)
+
+--firebase init
+-select hosting
+existing file
+
+9do yu want to proceed public dir)--then type build
+single page html --- yes
+
+
+then npm run build
+
+
+if i make changes then i type again---npm run build
+
+
+
+
+at last firebase deploy
+host website
+
+
+some images k=link
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQysNhNfjmW_TcwiaKk7Ie8ipRRHzwaK0IXYQ&usqp=CAU
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7mVdOmKu0bV_MLvoGT-CofqJqQkuTvmW4dw&usqp=CAU
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoP03WX-3qbfLJWy-hgTU9QQvGjfif4QSd6w&usqp=CAU
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl3tjxa2h_t7gkPCAG4XWcsZo60x3h3E2Evg&usqp=CAU
